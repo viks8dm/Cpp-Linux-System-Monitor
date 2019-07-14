@@ -1,4 +1,4 @@
-# CppND-System-Monitor
+# C++ Linux-System-Monitor
 
 Linux System Monitor Project for C++ OOP. Starter code on which this repository is based is available [in this repository](https://github.com/udacity/CppND-System-Monitor/) 
 
